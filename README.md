@@ -76,7 +76,7 @@ República Dominicana
 
 GitHub: https://github.com/gregorysmill
 
-LinkedIn: *(Próximamente)*
+LinkedIn: https://www.linkedin.com/in/gregorysmill/
 
 ---
 
