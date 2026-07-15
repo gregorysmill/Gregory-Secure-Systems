@@ -4,13 +4,13 @@
 
 Objetivos
 
-Diseñar e implementar una infraestructura tecnológica corporativa basada en buenas prácticas de administración de sistemas y seguridad informática.
+-Diseñar e implementar una infraestructura tecnológica corporativa basada en buenas prácticas de administración de sistemas y seguridad informática.
 
-Integrar servicios de infraestructura, administración de identidades, almacenamiento, monitoreo y seguridad para fortalecer la gestión y protección del entorno corporativo.
+-Integrar servicios de infraestructura, administración de identidades, almacenamiento, monitoreo y seguridad para fortalecer la gestión y protección del entorno corporativo.
 
-Implementar controles de seguridad orientados a la protección de los activos tecnológicos, la administración centralizada y el acceso seguro a los recursos de la organización.
+-Implementar controles de seguridad orientados a la protección de los activos tecnológicos, la administración centralizada y el acceso seguro a los recursos de la organización.
 
-Documentar el proceso de implementación y las configuraciones realizadas como evidencia técnica del proyecto.
+-Documentar el proceso de implementación y las configuraciones realizadas como evidencia técnica del proyecto.
 
  
-El objetivo del proyecto es presentar una infraestructura corporativa funcional orientada a la administración, monitoreo y protección de entornos empresariales, aplicando buenas prácticas de infraestructura y seguridad informática.
+--
