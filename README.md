@@ -52,7 +52,7 @@
 ## Máquinas virtuales
 Debido al tamaño de los archivos, las máquinas virtuales utilizadas en este proyecto se encuentran disponibles en el siguiente enlace de OneDrive:
 
-🔗 https://AQUI_PEGA_EL_ENLACE_DE_ONEDRIVE
+🔗 https://1drv.ms/f/c/b79b4914f79c91a4/IgDH13KmPnVRQqfA5GXvZ1rlAUyRZU4nL4nJsxSA9I42vGc?e=KJhrxs
 
 Las máquinas virtuales incluidas corresponden a la infraestructura implementada para el desarrollo del proyecto:
 
