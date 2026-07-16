@@ -49,6 +49,18 @@
 
 ---
 
+## Máquinas virtuales
+Debido al tamaño de los archivos, las máquinas virtuales utilizadas en este proyecto se encuentran disponibles en el siguiente enlace de OneDrive:
+
+🔗 https://AQUI_PEGA_EL_ENLACE_DE_ONEDRIVE
+
+Las máquinas virtuales incluidas corresponden a la infraestructura implementada para el desarrollo del proyecto:
+
+- Windows Server 2022 (Controlador de Dominio Principal)
+- Windows Server 2022 (Controlador de Dominio Secundario)
+- OPNsense Firewall
+- Wazuh SIEM
+
 ## Evidencias de implementación
 
 El proyecto incluye evidencias técnicas del proceso de implementación de la infraestructura, entre ellas:
