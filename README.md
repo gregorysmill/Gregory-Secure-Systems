@@ -44,7 +44,7 @@
 ## Documentación del proyecto
 
 - 📄 https://github.com/gregorysmill/Gregory-Secure-Systems/blob/main/GregorySecureSystems_Proyecto_Empresarial.pdf
-- 📄 GregorySecureSystems_Documentacion_Tecnica.pdf
+- 📄 https://github.com/gregorysmill/Gregory-Secure-Systems/blob/main/GregorySecureSystems_Documentacion_Tecnica.pdf
 
 ---
 
