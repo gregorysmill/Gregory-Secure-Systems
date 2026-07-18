@@ -56,6 +56,8 @@ Debido al tamaño de los archivos, las máquinas virtuales utilizadas en este pr
 
 🔗 https://itlaedudo-my.sharepoint.com/:f:/g/personal/20240852_itla_edu_do/IgDZ_nSkphddTpKH-_JoNjKZAbF71dpUe2uh-VZyoV0kWiY?e=cYD8zD
 
+🔗 https://1drv.ms/f/c/646ae2488d4a3853/IgAQgsFdZA7JSJAECuo7IR3hAZC0RA5mwQQizCXZb9w_8gA?e=dyZIRH
+
 Las máquinas virtuales incluidas corresponden a la infraestructura implementada para el desarrollo del proyecto:
 
 - Windows Server 2022 (Controlador de Dominio Principal)
