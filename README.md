@@ -52,8 +52,6 @@
 ## Máquinas virtuales
 Debido al tamaño de los archivos, las máquinas virtuales utilizadas en este proyecto se encuentran disponibles en el siguiente enlace de OneDrive:
 
-🔗 https://1drv.ms/f/c/b79b4914f79c91a4/IgDH13KmPnVRQqfA5GXvZ1rlAUyRZU4nL4nJsxSA9I42vGc?e=KJhrxs
-
 🔗 https://itlaedudo-my.sharepoint.com/:f:/g/personal/20240852_itla_edu_do/IgDZ_nSkphddTpKH-_JoNjKZAbF71dpUe2uh-VZyoV0kWiY?e=cYD8zD
 
 🔗 https://1drv.ms/f/c/646ae2488d4a3853/IgAQgsFdZA7JSJAECuo7IR3hAZC0RA5mwQQizCXZb9w_8gA?e=dyZIRH
